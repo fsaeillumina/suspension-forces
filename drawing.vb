@@ -5,7 +5,7 @@ Option Explicit
 ' I haven't written a full explanation on how to use it. You're on your own
 ' if you want to try to make it work. 
 ' Using excel's build in graphs is probably an easier way to visualize your forces. 
-' Requires the "Support.vb" file to also be copied into excel. I put it in a separate 
+' Requires the "Support.vb" file to also be copied into VBA. I put it in a separate 
 ' module for organization. 
 
 Type line_prop
