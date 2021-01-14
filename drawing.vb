@@ -1,6 +1,11 @@
 Option Base 1
 Option Explicit
 
+'This file draws arrows in excel based on the force vectors. 
+' I haven't written a full explanation on how to use it. You're on your own
+' if you want to try to make it work. 
+' Using excel's build in graphs is probably an easier way to visualize your forces. 
+
 Type line_prop
 
     name As String
